@@ -17,7 +17,7 @@ This course introduces you to deep learning: the state-of-the-art approach to bu
 We'll cover the importance of data with machine and deep learning algorithms, the basics of creating a dataset, how to preprocess datasets, then jump into Tensorflow, a library for creating computational graphs built by Google Research. We'll learn the basic components of Tensorflow and see how to use it to filter images.
 
 ## Session 2: Training A Network W/ Tensorflow
-We'll see how neural networks work, how they are "trained", and see the basic components of training a neural network. We'll then build our first neural network and use it for a fun application of teaching a neural network how to paint an image, and explore such a network can be extended to produce different aesthetics.
+We'll see how neural networks work, how they are "trained", and see the basic components of training a neural network. We'll then build our first neural network and use it for a fun application of teaching a neural network how to paint an image, and explore such a network can be extended to produce different aesthetics.test
 
 ## Session 3: Unsupervised And Supervised Learning
 We explore deep neural networks capable of encoding a large dataset, and see how we can use this encoding to explore "latent" dimensions of a dataset or for generating entirely new content. We'll see what this means, how "autoencoders" can be built, and learn a lot of state-of-the-art extensions that make them incredibly powerful. We'll also learn about another type of model that performs discriminative learning and see how this can be used to predict labels of an image.
